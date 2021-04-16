@@ -1,6 +1,6 @@
 -if only target changes -only pageElement provider should change
 
--delete pageObjects and page element provider if not present in database
+-delete pageObjects and page element provider if not present in databas
 
 
 
