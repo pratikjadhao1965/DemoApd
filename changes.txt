@@ -2,6 +2,5 @@
 
 -delete pageObjects and page element provider if not present in database
 
--Change by Vaibha
 
 
